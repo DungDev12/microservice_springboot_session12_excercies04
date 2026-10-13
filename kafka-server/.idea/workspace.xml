@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b4709a7-20b3-495b-9f81-02e43264ea51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../product-server/src/main/java/com/exam/productserver/config/RedissonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product-server/src/main/java/com/exam/productserver/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-server/src/main/java/com/exam/productserver/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product-server/src/main/java/com/exam/productserver/service/interfaces/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-server/src/main/java/com/exam/productserver/service/interfaces/IProductService.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b4709a7-20b3-495b-9f81-02e43264ea51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791871278483</updated>
-      <workItem from="1791871279775" duration="1219000" />
+      <workItem from="1791871279775" duration="1524000" />
     </task>
     <servers />
   </component>
