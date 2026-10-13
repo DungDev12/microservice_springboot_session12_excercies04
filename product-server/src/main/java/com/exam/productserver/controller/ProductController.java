@@ -29,4 +29,11 @@ public class ProductController {
     public Product updateProduct(@PathVariable Long id, @RequestBody UpdateProductRequest request) {
         return productService.updateProductById(id, request);
     }
+
+    @PostMapping("/{id}")
+    public Product buyProduct(
+            @PathVariable Long id,
+            @RequestParam(defaultValue = "1") int quantity) {
+        return productService.buyProduct(id, quantity);
+    }
 }

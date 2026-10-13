@@ -11,4 +11,6 @@ public interface IProductService {
     Product updateProductById(Long id, UpdateProductRequest request);
 
     List<Product> getAllProducts();
+
+    Product buyProduct(Long id, int quantity);
 }
